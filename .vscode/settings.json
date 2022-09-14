@@ -1,4 +1,4 @@
 {
-  "cSpell.words": ["NDAINANPINQINCQINCPICWKNCPI", "sqlalchemy"],
+  "cSpell.words": ["NDAINANPINQINCQINCPICWKNCPI", "sqlalchemy", "werkzeug"],
   "python.formatting.provider": "black"
 }
